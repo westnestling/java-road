@@ -6,4 +6,4 @@
 
 ## Java基础
 - [ThreadLocal源码解读,ThreadLocalmap实现](/docs/java/ThreadLocal/ThreadLocal解读.md)
-- [Java的四种引用](/docs\java\referenceType\引用类型.md)
+- [Java的四种引用](/docs/java/referenceType/引用类型.md)
