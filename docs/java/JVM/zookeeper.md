@@ -9,5 +9,8 @@
 - ./zkCli.sh 打开zk客户端命令行后台
 - ls 与 ls2 查看当前节点数据列表
 - get 与 stat 查看当前节点状态
+- create [path] [value] 创建永久节点
+- create -e [path] [value] 创建临时节点
+- create -s [path] [value] 创建顺序节点
 
 
