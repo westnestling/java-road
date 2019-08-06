@@ -12,5 +12,11 @@
 - create [path] [value] 创建永久节点
 - create -e [path] [value] 创建临时节点
 - create -s [path] [value] 创建顺序节点
+- delete [path] ([version])删除节点数据 版本号（乐观锁 可无）
+
+## watcher 命令行
+- get path watch 设置watcher
+- stat path watch 设置watcher
+- ls path watch 设置watcher
 
 
