@@ -20,7 +20,8 @@
 - ls path watch 设置watcher
 
 
-## acl 命令行
+## acl 命令行  
+资料 https://www.jianshu.com/p/c96c9f8c2433
 - getAcl 查看权限
 - setAcl 设置权限 
 
