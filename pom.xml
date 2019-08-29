@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>zk-test</module>
+        <module>demo</module>
     </modules>
     <packaging>pom</packaging>
 
